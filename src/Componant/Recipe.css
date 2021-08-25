@@ -1,0 +1,20 @@
+.data{
+    display: flex;
+}
+.twoButton{
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+.cal_detail{
+    border: 2px solid red;
+    margin-left: 0;
+}
+.twoButton{
+    display: flex;
+    margin-left: 28%; 
+}
+.calories_cell{
+    margin-right: 40%;
+}
